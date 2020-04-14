@@ -1,6 +1,5 @@
-/* Criar um vetor A com 5 elementos inteiros. Construir um vetor
- * B de mesmo tipo e tamanho e com os "mesmos" elementos do vetor A,
- * ou seja, B[i] = A[i].
+/* Implement a vector A with 5 elements. Then, create a vector B with the same 
+ * elements of vector A.
  */
 package application;
 
